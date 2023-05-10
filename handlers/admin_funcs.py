@@ -1,10 +1,5 @@
 from __future__ import annotations
-
-from datetime import datetime, timedelta
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-from store import *
-from classes.general import *
-from classes.training import *
 from handlers.other.config import *
 from handlers.other.additional_funcs import *
 from handlers.other.menu import *
@@ -18,6 +13,7 @@ from shutil import copy
 import json
 import os
 import re
+
 
 def excel_form_write(coach: Coach, user: User) -> NoReturn:
 	form_params = coach.special_excel_form(user)

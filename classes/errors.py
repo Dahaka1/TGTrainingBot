@@ -1,6 +1,8 @@
 from datetime import datetime
 from sys import argv, exc_info
 from traceback import format_exc
+
+
 class Error:
 	"""
 	Добавил простое логирование, а то устал вручную искать ошибки в консоли
@@ -21,6 +23,7 @@ class Error:
 			    '- DATETIME: ' + \
 				self.datetime.isoformat() + f'\n\n{splitting}\n\n'
 		return text
+
 
 	def log(self):
 		try:

@@ -1,5 +1,6 @@
 from store import *
 
+
 def new_payment(user, tariff, payment_sum, payment_date):
 	with database() as connection:
 		with connection.cursor() as db:

@@ -1,16 +1,12 @@
 from __future__ import annotations
-
-import random
-from json import dumps, loads
-from typing import NoReturn, Optional, Union
-from store import *
-from datetime import datetime, date, timedelta
-from statistics import mean
 from classes.training import *
 from classes.users_tasks import *
 import re
 import pandas as pd
-
+from datetime import datetime, date, timedelta
+from store import database
+from statistics import mean
+import random
 
 class Coach:
 	def __init__(self, chat_id:Optional[str,int]=None, coach_id:Optional[str,int]=None):
@@ -732,10 +728,10 @@ class User:
 							if i['discount_period'] > datetime.now():
 								return i['discount_amount']
 
-	def new_global_form(self, data:UserGlobalPolling) -> NoReturn:
-		with database() as connection:
-			with connection.cursor() as db:
-				db.execute()
+	# def new_global_form(self, data:UserGlobalPolling) -> NoReturn:
+	# 	with database() as connection:
+	# 		with connection.cursor() as db:
+	# 			db.execute()
 
 
 	def self_trainings_history(self, training_type: str, history_type:str='coach') -> bool:

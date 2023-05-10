@@ -1,5 +1,3 @@
-from handlers.general import *
-from handlers.admin_funcs import admin
 from handlers.checking import *
 from threading import Thread
 from non_public.bot import *

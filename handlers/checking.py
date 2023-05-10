@@ -1,9 +1,4 @@
 import datetime
-from time import sleep
-from datetime import datetime, timedelta, date
-from store import *
-from classes.general import *
-from classes.users_tasks import *
 from handlers.general import *
 from handlers.other.additional_funcs import *
 from classes.signing_up import *
@@ -15,6 +10,8 @@ import os
 from classes.training import *
 from handlers.dates_additional import *
 from handlers.other.menu import *
+from handlers.other.config import forbidden_status
+
 
 def training_types(user=None, tariff=None):
 	types = {'personal': 'персонально', 'split': 'сплит', 'group': 'группа', 'personal_online': 'персонально онлайн', 'free': 'бесплатно (пробно)'}

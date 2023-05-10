@@ -1,8 +1,7 @@
-import sys
-sys.path.extend(['C:\\Users\\Yaroslav\\PycharmProjects\\my_learning\\TGTrainingBot'])
 from classes.general import User
 from store import database
 from typing import NoReturn
+
 
 def change_sessions_amount(user_fullname: str, training_type: str, sessions_amount: int) -> NoReturn:
 	"""
@@ -24,13 +23,18 @@ def change_sessions_amount(user_fullname: str, training_type: str, sessions_amou
 			else:
 				raise Exception("User was not found in DB.")
 
+
 if __name__ == '__main__':
 	func_num = int(input())
+
+
 	def start():
 		if func_num == 1:
 			name = input('Write an user fullname: ')
 			tr_type = 'split'
 			sessions_amount = int(input('Write a sessions amount: '))
 			change_sessions_amount(name, tr_type, sessions_amount)
+
+
 	while True:
 		start()

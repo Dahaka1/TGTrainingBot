@@ -2,8 +2,9 @@ from __future__ import annotations
 
 from store import *
 from datetime import date
-from typing import NoReturn
 from classes.general import *
+from typing import NoReturn
+
 
 class ScheduleDay:
 	def __init__(self, coach: Coach, curdate: date):

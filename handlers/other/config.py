@@ -8,6 +8,7 @@ statuses = [
 		'indebted_coach'
 	]
 
+
 def forbidden_status(user: Any) -> bool:
 	"""
 	Проверяет статус юзера на статусы, при которых нельзя использовать меню, команду /start ...

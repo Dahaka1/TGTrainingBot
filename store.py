@@ -2,8 +2,10 @@ import pymysql
 from pymysql.cursors import DictCursor
 from non_public.mysql_config import *
 
+
 #######################################
 # CONNECTION FUNC
+
 def database():
 	try:
 		connection = pymysql.connect(

@@ -2,6 +2,7 @@ from pickle import *
 from typing import Optional
 import os
 
+
 def temporary_dict(new_dct=None, update=False) -> Optional[dict]:
 	file_path = 'data/temp_data/temp_dict.pickle'
 	if not os.path.exists(file_path):
