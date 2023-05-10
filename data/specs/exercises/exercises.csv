@@ -1,0 +1,51 @@
+№,Категория,Название,Инвентарь,Мышечная группа,Сложность,Тип,Единица измерения,Ссылка на видео-урок
+1,жимы горизонтальные,жим лежа штанги,гриф классический,chest,high,strength,kg,https://www.youtube.com/watch?v=rIZirGYcbD8
+2,тяги горизонтальные,тяга в наклоне стоя к животу штанги,гриф классический,back,high,strength,kg,https://www.youtube.com/watch?v=cB3ztFmAXnU
+3,жимы вертикальные,жим стоя с груди штанги,гриф классический,shoulders,medium,strength,kg,https://www.youtube.com/watch?v=0oj5pY3RQrc
+4,тяги вертикальные,подтягивание на перекладине,перекладина,back,high,strength,,https://www.youtube.com/shorts/zBYJDObQWVA
+5,приседания,приседание со штангой на плечах,гриф классический,legs,high,strength,kg,https://www.youtube.com/watch?v=7Yg2YVNdd8c
+6,без инвентаря,приседание с собственным весом,,legs,low,strength,,https://www.youtube.com/watch?v=j8H6X4KQQ5A
+7,тяги,тяга становая со штангой,гриф классический,pelvis,high,strength,kg,https://www.youtube.com/watch?v=108Ga1EdL_Q
+8,без инвентаря,подъем корпуса лежа на полу,,abs,low,strength,,https://www.youtube.com/watch?v=FWk-bfKceEU
+9,тяги,мертвая тяга со штангой,гриф классический,pelvis,high,strength,kg,https://www.youtube.com/watch?v=oqh7hHMlNyU
+10,тяги,мертвая тяга с гантелями,гантель,pelvis,high,strength,kg,https://www.youtube.com/watch?v=ugkSLm4_XmU
+11,изолированные (односуставные),сгибание предплечий стоя с гантелями,гантель,arms,low,strength,kg,https://www.youtube.com/watch?v=xkA900B4yt4
+12,изолированные (односуставные),французский жим стоя с гантелью,гантель,arms,low,strength,kg,https://www.youtube.com/watch?v=WOOcjC2y-e4
+13,изолированные (односуставные),отведение плеча стоя с гантелями,гантель,shoulders ,low,strength,kg,https://www.youtube.com/shorts/G4o4LJgdHkc
+14,функциональные,подтягивание на петлях TRX в наклоне к груди,петли TRX,back,low,strength,kg,https://www.youtube.com/watch?v=jAFZ958KQDA
+15,приседания,гоблет-приседание с гантелью,гантель,legs,low,strength,kg,https://www.youtube.com/shorts/LDd3GFtczJ8
+16,без инвентаря,ягодичный мостик лежа на полу,,pelvis,low,strength,,https://www.youtube.com/watch?v=VgobOI5FD1s
+17,без инвентаря,ягодичный мостик одной ногой лежа на полу (на каждую ногу),,pelvis,low,strength,,https://www.youtube.com/watch?v=KxtKBWjA5Rg
+18,без инвентаря,отжимание от пола,,chest,medium,strength,,https://www.youtube.com/watch?v=c902b5g8w0A
+19,без инвентаря,боковая планка (на каждую сторону),,abs,medium,strength,,https://www.youtube.com/watch?v=b4aF-P1n048
+20,тяги горизонтальные,тяга в наклоне стоя к животу гантелей,гантель,back,high,strength,kg,https://www.youtube.com/watch?v=QGay_d26T9U
+21,жимы вертикальные,жим стоя с груди гантелей,гантель,arms,medium,strength,kg,https://www.youtube.com/watch?v=UUdKpGSQgmc
+22,жимы вертикальные,толчок стоя с груди гири,гиря,fullbody,medium,strength,kg,https://www.youtube.com/watch?v=tAavqiQ0PAk
+23,без инвентаря,бёрпи,,fullbody,medium,cardio,,https://www.youtube.com/shorts/La2TL1bOAoo
+24,функциональные,прыжки со скакалкой,скакалка,legs,low,cardio,,https://www.youtube.com/watch?v=vqZ_SafvOK4
+25,приседания,приседание со штангой на груди,гриф классический,legs,high,strength,kg,https://www.youtube.com/watch?v=uZ5TIc3MZ7o
+26,изолированные (односуставные),сгибание стопы стоя с гантелями,гантель,legs,low,strength,kg,https://www.youtube.com/watch?v=uKaahmlHbMY
+27,изолированные (односуставные),сгибание плеча стоя с гантелями,гантель,shoulders,low,strength,kg,https://www.youtube.com/watch?v=Qx8nx0Yl390
+28,функциональные,гребля,тренажер для гребли,fullbody,low,cardio,meters,https://www.youtube.com/watch?v=RB_wSR-XU-g
+29,без инвентаря,выпрыгивание на месте из седа,,legs,medium,cardio,,https://www.youtube.com/shorts/mrRqQ2_pJ_s
+30,жимы горизонтальные,отжимание от брусьев,брусья,chest,medium,strength,,https://www.youtube.com/watch?v=XSmkKGKk-IA
+31,функциональные,выпады с гантелями,гантель,legs,meduim,strength,kg,https://www.youtube.com/watch?v=d3xVz2ObWyg
+32,тяги,тяга становая с гирей,гиря,pelvis,medium,strength,kg,https://www.youtube.com/watch?v=kEHtH9NFObg
+33,,,,,,,,
+34,,,,,,,,
+35,,,,,,,,
+36,,,,,,,,
+37,,,,,,,,
+38,,,,,,,,
+39,,,,,,,,
+40,,,,,,,,
+41,,,,,,,,
+42,,,,,,,,
+43,,,,,,,,
+44,,,,,,,,
+45,,,,,,,,
+46,,,,,,,,
+47,,,,,,,,
+48,,,,,,,,
+49,,,,,,,,
+50,,,,,,,,
